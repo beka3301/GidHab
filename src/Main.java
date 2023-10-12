@@ -4,9 +4,6 @@ public class Main {
         System.out.println("sda");
         System.out.println("Madina");
         System.out.println("Azamat");
-        System.out.println("jhghj");
-        System.out.println("kjh");
-        System.out.println("asdfgh");
-
+        System.out.println("Nuriza");
     }
 }
